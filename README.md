@@ -20,3 +20,13 @@ Tecnologías que manejo:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" title="HTML5" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" title="VSCode" width="40" height="40"/> </a> 
 </p>
+
+
+:telephone_receiver: si necesitas alguna custión sobre estas tecnologías, no dudes en contactarme 
+
+:iphone: MOBILE: +57 301 548 4652
+
+:email: MAIL: jmlopez-08@hotmail.com
+
+:briefcase: LinkedIn: https://www.linkedin.com/in/juan-manuel-lopez-rivas-23b87487/
+
