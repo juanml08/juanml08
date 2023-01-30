@@ -1,4 +1,9 @@
-my knowledge includes:
+Sobre mí:
+Desarrollador Web Fullstack, con entusiasmo por aportar sus conocimientos, experiencia y buena actitud en sus labores. Con activacomunicación, buena interacción en grupos de trabajo y que desea aprender más y más cada día. Apasionado por el la rama extensa que es el desarrollo front end.
+
+
+Tecnologías que manejo: 
+
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png?width=1200&enable=upscale" alt="MongoDB" title="MongoDB" height="40"/> </a>
