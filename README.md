@@ -49,14 +49,6 @@ Desarrollador Web Fullstack, con entusiasmo por aportar mis conocimientos, exper
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img alt="Racha de contribuciones de juanml08" src="https://streak-stats.demolab.com/?user=juanml08&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contacto
 
 <p align="left">
