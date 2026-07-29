@@ -36,10 +36,13 @@ Desarrollador Web Fullstack, con entusiasmo por aportar mis conocimientos, exper
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
@@ -49,13 +52,15 @@ Desarrollador Web Fullstack, con entusiasmo por aportar mis conocimientos, exper
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanml08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanml08&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Estadísticas de GitHub de juanml08" src="https://github-readme-stats.vercel.app/api?username=juanml08&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" alt="Lenguajes más usados por juanml08" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanml08&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanml08&theme=tokyonight&hide_border=true" />
+  <img alt="Racha de contribuciones de juanml08" src="https://streak-stats.demolab.com/?user=juanml08&theme=dark&hide_border=true" />
 </p>
+
+> 💡 Si alguna imagen no carga, es porque el servicio gratuito que las genera está temporalmente saturado. Suele recuperarse solo al recargar la página en unos minutos.
 
 ---
 
