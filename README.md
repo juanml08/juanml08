@@ -20,7 +20,7 @@
 Desarrollador Web Fullstack, con entusiasmo por aportar mis conocimientos, experiencia y buena actitud en cada proyecto. Me caracterizo por una comunicación activa, buena interacción en equipos de trabajo y un deseo constante de aprender. Apasionado especialmente por el **desarrollo Front End**.
 
 - 🔭 Actualmente trabajando en proyectos Fullstack con JavaScript/TypeScript
-- 🌱 Aprendiendo y profundizando en el ecosistema React/Node
+- 🌱 Especializandome y profundizando en el ecosistema React/TypeScript/Node
 - 💬 Pregúntame sobre JavaScript, TypeScript, React, Node.js o bases de datos
 - 📫 Contáctame: **jmlopez-08@hotmail.com** | **+57 301 548 4652**
 
