@@ -52,15 +52,8 @@ Desarrollador Web Fullstack, con entusiasmo por aportar mis conocimientos, exper
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img height="165" alt="Estadísticas de GitHub de juanml08" src="https://github-readme-stats.vercel.app/api?username=juanml08&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" alt="Lenguajes más usados por juanml08" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanml08&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" alt="Estadísticas de GitHub de juanml08" src="https://github-readme-stats.vercel.app/api?
 </p>
-
-<p align="left">
-  <img alt="Racha de contribuciones de juanml08" src="https://streak-stats.demolab.com/?user=juanml08&theme=dark&hide_border=true" />
-</p>
-
-> 💡 Si alguna imagen no carga, es porque el servicio gratuito que las genera está temporalmente saturado. Suele recuperarse solo al recargar la página en unos minutos.
 
 ---
 
